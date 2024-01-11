@@ -1,4 +1,5 @@
-
+[
+  {
                 "name": "Helicopter Gunship",
                 "unitType": "Helicopter",
                 "movement": 6,
@@ -10,3 +11,4 @@
                         "All tiles cost 1 movement", "Ignores Zone of Control", "Unable to capture cities"],
                 "attackSound": "machinegun"
         },
+]
